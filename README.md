@@ -1,2 +1,2 @@
-# Framework ntegration
+# Framework Integration
   SpringMVC+Spring+Hibernate
