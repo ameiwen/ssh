@@ -1,3 +1,3 @@
-# ssh
+# SpringMVC+Spring+Hibernate
 
-框架整合Demo
+框架整合
